@@ -1,10 +1,6 @@
 # Research Portfolio: Arthur Filippi
 
-Student at **École Polytechnique** (AI major, biology / computational biology minors).
-
-## Work
-
-Some of my research projects carried out during my undergraduate studies.
+Student at **École Polytechnique** (AI major, biology / computational biology minors). Gathered below are some of the research projects I carried out during my undergraduate studies.
 
 | Project | Description |
 |---|---|
