@@ -13,11 +13,8 @@ Measuring the carbon footprint of a vehicle-financing portfolio requires predict
 
 ## Confidentiality
 
-This work is subject to **confidentiality and intellectual property clauses** with the partner. It is a group project; I present **only my own contribution**, and in **reduced** form: code and databases cannot be released, and operational considerations are omitted. The paper is limited to the scientific methodology.
+This work is subject to **confidentiality and intellectual property clauses** with the partner, who holds the IP on the code. It is a group project; I present **only my own contribution**, and in **reduced** form: **the code and the databases are confidential and are not part of this repository**, and operational considerations are omitted. The paper is limited to the scientific methodology. I would be happy to provide more details orally.
 
 ## References
 
-For verification, my supervisors on the partner side:
-
-- **David Pomes** (BNP Paribas Personal Finance): `david.pomes@bnpparibas-pf.com`
-- **Christophe Bourdeaux** (BNP Paribas Personal Finance): `christophe.bourdeaux@bnpparibas-pf.com`
+For verification, my supervisors on the partner side are at BNP Paribas Personal Finance: **David Pomes** and **Christophe Bourdeaux**. Contact details on request.

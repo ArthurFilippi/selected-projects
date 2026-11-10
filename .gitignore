@@ -8,7 +8,14 @@
 __pycache__/
 
 # Build artefacts / LaTeX intermediates
-04_narratology_butor_robbe-grillet/main.tex
-04_narratology_butor_robbe-grillet/main_raw.tex
-04_narratology_butor_robbe-grillet/main.pdf
+05_nouveau_roman_narratology/main.tex
+05_nouveau_roman_narratology/main_raw.tex
+05_nouveau_roman_narratology/main.pdf
 *.bak.tex
+
+# Environments, dependencies, secrets
+.venv/
+venv/
+node_modules/
+.env
+.env.*

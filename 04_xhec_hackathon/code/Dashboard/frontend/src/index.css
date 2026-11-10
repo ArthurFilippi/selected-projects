@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-blumana-primary: #0066FF;
+  --color-blumana-primary-hover: #0052CC;
+  --color-blumana-surface: #F8FAFC;
+  --color-blumana-surface-elevated: #FFFFFF;
+  --color-blumana-border: #E2E8F0;
+  --color-blumana-text: #0F172A;
+  --color-blumana-text-muted: #64748B;
+  --color-blumana-accent: #0066FF;
+  --color-blumana-success: #10B981;
+  --color-blumana-warning: #F59E0B;
+  --color-blumana-danger: #EF4444;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  background: #F8FAFC;
+  color: #0F172A;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+}
