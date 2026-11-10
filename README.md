@@ -1,8 +1,4 @@
-# Selected projects: Arthur Filippi
-
-Student at **École Polytechnique** (AI major, with biology and computational biology minors). This repository gathers a selection of projects, with a short README in each folder. It accompanies my application to Vera Health (AI / ML internship).
-
-Each project has its own constraints on what can be shared (intellectual property held by a partner or a lab, confidentiality clauses). The table states, for each one, what is in the folder.
+# Selected projects
 
 | Project | Description | In this repository |
 |---|---|---|
