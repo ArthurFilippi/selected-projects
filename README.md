@@ -2,7 +2,7 @@
 
 | Project | Description | In this repository |
 |---|---|---|
-| [`01_stanford_multimodal_bio`](01_stanford_multimodal_bio) | **ML for multimodal biology.** Sparse biomarker discovery on high-dimensional multimodal data (Stabl, iEN, CellOT, latent fusion), Gaudillière lab, Stanford School of Medicine. | README only. Code is confidential. Links to the papers of the underlying methods. |
+| [`01_stanford_multimodal_bio`](01_stanford_multimodal_bio) | **ML for multimodal biology.** Sparse biomarker discovery on high-dimensional multimodal data (Stabl, iEN, CellOT), Gaudillière lab, Stanford School of Medicine. | README only. Code is confidential. Links to the papers of the underlying methods. |
 | [`02_ai_native_ma`](02_ai_native_ma) | **AI-native M&A analyst.** *[Description to be added.]* | *[Placeholder: code and README to be added.]* |
 | [`03_bnp_carbon_footprint_ml`](03_bnp_carbon_footprint_ml) | **Applied ML.** Auditable prediction of the carbon intensity of a multi-market automotive loan portfolio (one-year research project, BNP Paribas). | Paper and README. Code is confidential (the partner holds the IP). |
 | [`04_xhec_hackathon`](04_xhec_hackathon) | **X-HEC Hackathon (winning project).** Turning a casino's customer feedback into an executive dashboard and sourced semantic search. | Code snapshot of the team repository and README. |
