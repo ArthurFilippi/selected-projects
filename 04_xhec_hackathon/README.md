@@ -28,8 +28,6 @@ To run it, see `code/Dashboard/README.md`: `pip install -r requirements.txt` the
 
 ## Credits
 
-Original repository: [simonvielpeau/hackathon-x-hec](https://github.com/simonvielpeau/hackathon-x-hec). Commits by Simon Vielpeau and a teammate (GitHub handle `yboady`). The code is shown here as a snapshot of that repository (commit `b24466e`), without its committed virtual environment. All credit for the shared code goes to the team.
+Original repository: [simonvielpeau/hackathon-x-hec](https://github.com/simonvielpeau/hackathon-x-hec). The code is shown here as a snapshot of that repository, without its committed virtual environment.
 
-My contribution: *[to be completed]*
-
-We won the hackathon, and got so many ElevenLabs credits!
+We won the hackathon, and got many ElevenLabs credits! (cool)
