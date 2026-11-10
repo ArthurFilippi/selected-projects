@@ -14,7 +14,7 @@ High-dimensional ML on multimodal data (electroencephalograms, MRI, proteome, an
 - **Integration of expert prior knowledge with iEN** (immunological elastic net).
 - **Optimal transport models for single-cell digital twins** (CellOT), used to move from single-cell data to patient-level features.
 - **Classical regularization techniques** on high-dimensional data.
-- **Multimodal integration through latent fusion.**
+- **Multimodal integration.**
 
 ## Papers behind the methods
 
